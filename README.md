@@ -25,7 +25,7 @@ Things you may want to cover:
 ## Catalog Design
    [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing)
 ## Table Definition Document
-   ### Soon
+   [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
    ### Soon
 ## Screen Transition Diagram
