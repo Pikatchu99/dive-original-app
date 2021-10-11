@@ -27,7 +27,7 @@ Things you may want to cover:
 ## Table Definition Document
    [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
-   ### Soon
+   [ER Diagram](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/7E206)
 ## Screen Transition Diagram
    ### Soon
 ## Wireframes
