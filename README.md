@@ -23,7 +23,7 @@ Things you may want to cover:
    $ rails s
    ```
 ## Catalog Design
-   ### Soon
+   [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing)
 ## Table Definition Document
    ### Soon
 ## ER Diagram
