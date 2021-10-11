@@ -1,25 +1,20 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
+## Development Language
+* Ruby 3.0.1
+* Rails 6.0.3
 
 Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# dive-requirement
+## Employmemnt Term Technology
+   ### Soon
+## Technologies outside the curriculum
+   ### Soon
+## Execution Procedure
+   ```bash
+   $ git clone git@github.com:Pikatchu99/dive-original-app.git
+   $ cd dive-original-app
+   $ bundle install
+   $ rails db:create db:migrate
+   $ rails db:seed
+   $ rails s
+   ```
