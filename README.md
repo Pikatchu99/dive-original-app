@@ -6,9 +6,13 @@
 
 Things you may want to cover:
 ## Employmemnt Term Technology
-   ### Soon
+   * Devise
+   * Comment function using Ajax
 ## Technologies outside the curriculum
-   ### Soon
+   * Front-end: [Bulma](https://bulma.io/)
+   * Postgresql
+   * Position:  [Localisation](https://www.mapbox.com/)
+   * Heroku
 ## Execution Procedure
    ```bash
    $ git clone git@github.com:Pikatchu99/dive-original-app.git
