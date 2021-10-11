@@ -25,12 +25,12 @@ Things you may want to cover:
 ## Catalog Design
    [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing)
 ## Table Definition Document
-   [Table definition link](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
+   [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
-   [ER Diagram link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/7E206)
+   [ER Diagram](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/7E206)
    ![Screenshot from 2021-10-11 18-35-53](https://user-images.githubusercontent.com/72025145/136832372-4eaa5be1-2833-4a84-bf54-f7b62bb9b9fb.png)
 ## Screen Transition Diagram
-    [Screen Transition link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/C4F5D)
+    [Screen Transition](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/C4F5D)
    ![Screen transition](https://user-images.githubusercontent.com/72025145/136850533-10f0811a-6472-4443-9445-7317cda882e9.png)
 ## Wireframes
    ### Soon
