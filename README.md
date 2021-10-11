@@ -18,3 +18,13 @@ Things you may want to cover:
    $ rails db:seed
    $ rails s
    ```
+## Catalog Design
+   ### Soon
+## Table Definition Document
+   ### Soon
+## ER Diagram
+   ### Soon
+## Screen Transition Diagram
+   ### Soon
+## Wireframes
+   ### Soon
