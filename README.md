@@ -31,7 +31,8 @@ Things you may want to cover:
    ![Screenshot from 2021-10-11 18-35-53](https://user-images.githubusercontent.com/72025145/136832372-4eaa5be1-2833-4a84-bf54-f7b62bb9b9fb.png)
 ## Screen Transition Diagram
 [Screean Transition link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/C4F5D)
-   ![Screen transition](https://user-images.githubusercontent.com/72025145/136850533-10f0811a-6472-4443-9445-7317cda882e9.png)
+   ![Screen transition](https://user-images.githubusercontent.com/72025145/136906507-06221723-b27f-4660-821a-ecbb33ffea81.png)
+
 
 ## Wireframes
    [Wireframes link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/1640D)
