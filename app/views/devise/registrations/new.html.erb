@@ -1,0 +1,77 @@
+<style>
+    .heading {
+        font-size: 1.5em;
+        margin-bottom: 0.5em;
+    }
+    
+    .LoginBtn:hover {
+        transform: translate(-1%, 5%);
+        box-shadow: 0 0 10px #ff416d65;
+    }
+
+    .LoginBtn {
+        width: 10%;
+        height: 40px;
+        border: none;
+        border-radius: 10px;
+        margin: 0.5em 0;
+        transform: translate(-1%);
+        cursor: pointer;
+        color: white;
+        background: linear-gradient(to right, #ff416c, #ff4b2b);
+        transition: all .4s;
+    }
+</style>
+<div class="container mt-5">
+  <p class="heading">Sign up</p>
+
+  <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-md-4 alert-danger">
+          <%= render "devise/shared/error_messages", resource: resource %>
+        </div>
+      <div class="col-lg-4 col-md-4"></div>
+        <div class="col-lg-4 col-md-4"></div>
+      </div>
+    </div>
+
+    <div class="box field">
+      <p><%= f.label :name %><br /></p>
+      <div>
+        <%= f.text_field :name, autofocus: true, autocomplete: "name" %>
+      </div>
+    </div>
+
+    <div class="box field">
+      <p><%= f.label :email %><br /></p>
+      <div>
+        <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
+      </div>
+    </div>
+
+    <div class="box field">
+      <p><%= f.label :password %>
+      <% if @minimum_password_length %>
+      <em>(<%= @minimum_password_length %> characters minimum)</em>
+      <% end %><br /></p>
+      <div>
+        <%= f.password_field :password, autocomplete: "new-password" %>
+      </div>
+    </div>
+
+    <div class="box field">
+      <p><%= f.label :password_confirmation %><br /></p>
+      <div>
+        <%= f.password_field :password_confirmation, autocomplete: "new-password" %>
+      </div>
+    </div>
+
+    <div class="actions">
+      <%= f.submit "Sign up", class: "LoginBtn" %>
+    </div>
+  <% end %>
+  <p class="text">I already have an account.
+  <a href="<%= new_user_session_path %> ">Sign In</a>
+  </p>
+</div>
