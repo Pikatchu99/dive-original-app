@@ -9,9 +9,9 @@ Things you may want to cover:
    * Devise
    * Comment function using Ajax
 ## Technologies outside the curriculum
-   * Front-end: [Bulma](https://bulma.io/)
+   * Front-end: [Bootstrap](https://getbootstrap.com/)
    * Postgresql
-   * Position:  [Localisation](https://www.mapbox.com/)
+   * Position:  [Localisation Google maps API](https://developers.google.com/maps)
    * Heroku
 ## Execution Procedure
    ```bash
