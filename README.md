@@ -9,10 +9,10 @@ Things you may want to cover:
    * Devise
    * Comment function using Ajax
 ## Technologies outside the curriculum
-   * Front-end: [Bootstrap](https://getbootstrap.com/)
-   * Postgresql
-   * Position:  [Localisation Google maps API](https://developers.google.com/maps)
-   * Heroku
+   * Front-end: [Bulma](https://bulma.io/)
+   * Position: 
+      - Google maps Places API
+      [Utiliser google maps places api afin de recupérer toutes les structures de santé hôpitaux où pharmacies pour les afficher sur l'application web.](https://developers.google.com/maps)
 ## Execution Procedure
    ```bash
    $ git clone git@github.com:Pikatchu99/dive-original-app.git
@@ -22,6 +22,9 @@ Things you may want to cover:
    $ rails db:seed
    $ rails s
    ```
+
+## Requirement checklist 
+   [Checklist Link](https://docs.google.com/spreadsheets/d/1GB09E4Prj8w-HuESPIs9a3rmYmLpjRY0r-beCkdOAXE/edit?usp=sharing)
 ## Catalog Design
    [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing)
 ## Table Definition Document
