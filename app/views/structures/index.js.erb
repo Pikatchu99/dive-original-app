@@ -1,4 +1,6 @@
 $(document).ready(function() {
-    data = await fetch("http://localhost:3000/structures.json").then(response => response.json())
-    console.log(data)
+    
+    if (window.navigator.geolocation) {
+        window.navigator.geolocation.window.navigator.geolocation.getCurrentPosition(console.log, console.log);
+    } 
 }) 

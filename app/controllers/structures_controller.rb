@@ -6,11 +6,12 @@ class StructuresController < ApplicationController
   # GET /structures or /structures.json
   def index
     @structures = Structure.all
-    current_user_location = request.location
-    puts current_user_location.data
-    # url = URI("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=9.3511632,2.5395551&type=pharmacy&key=AIzaSyAy_9GkemEqUHh4ueMlxhJOmqJLInzsKRM")
-    url = URI("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522%2C151.1957362&radius=1500&type=restaurant&keyword=cruise&key=AIzaSyAy_9GkemEqUHh4ueMlxhJOmqJLInzsKRM")
-
+    current_user_location = request.location.city
+    puts current_user_location
+    latitude = params[:l]
+    longitude = params[:L]
+    url = URI("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=#{latitude},#{longitude}&radius=10000&type=pharmacy&keyword=pharmacy&key=AIzaSyAy_9GkemEqUHh4ueMlxhJOmqJLInzsKRM")
+    puts url
     https = Net::HTTP.new(url.host, url.port)
     https.use_ssl = true
 
@@ -20,8 +21,20 @@ class StructuresController < ApplicationController
     response = JSON.parse(response)
 
     @results = response["results"]
-    # puts response["results"][0]["name"]
-    # render json: response.to_json
+    @results.each do |result|
+      structure = Structure.find_by(place_id: result["place_id"])
+      if structure.nil?
+        Structure.create!(place_id: result["place_id"], name: result["name"])
+      end
+    end
+
+
+
+    respond_to do |format|
+      format.html {}
+      format.json {render json: @results}
+    end
+
     # puts response.read_body
   end
 
