@@ -26,8 +26,7 @@ Things you may want to cover:
 ## Requirement checklist 
    [Checklist Link](https://docs.google.com/spreadsheets/d/1GB09E4Prj8w-HuESPIs9a3rmYmLpjRY0r-beCkdOAXE/edit?usp=sharing)
 ## Catalog Design
-   <!-- [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing) -->
-   [Catalogue Link](https://docs.google.com/spreadsheets/d/1AK72l6vznYVh05LxAE9nCnrx1XpgMwutKqbCjQvtni0/edit?usp=sharing)
+   [Catalogue Link](https://docs.google.com/spreadsheets/d/1p6rPs0txRTYBCzhr17I-ZQwSDyBXH780LG7bFHJz9R0/edit?usp=sharing)
 ## Table Definition Document
    [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
