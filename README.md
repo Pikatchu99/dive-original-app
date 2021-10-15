@@ -9,7 +9,6 @@ Things you may want to cover:
    * Devise
    * Comment function using Ajax
 ## Technologies outside the curriculum
-   * Front-end: [Bulma](https://bulma.io/)
    * Stocker les images en ligne: [Cloudinary](https://cloudinay.com)
 ## Execution Procedure
    ```bash
