@@ -31,14 +31,10 @@ Things you may want to cover:
    [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
    [ER Diagram](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/7E206)
-   <!-- ![Screenshot from 2021-10-11 18-35-53](https://user-images.githubusercontent.com/72025145/137282468-c2aa4219-e570-4461-b1ae-a9d58e832aac.png) -->
-   ![Screenshot from 2021-10-15 04-46-53](https://user-images.githubusercontent.com/72025145/137429271-068284a1-8c56-462c-921d-fa4c15604d1a.png)
-
+   ![Screenshot from 2021-10-15 13-04-39](https://user-images.githubusercontent.com/72025145/137483955-d6e13a7a-ebff-43c9-90bf-9a281b02b67f.png)
 ## Screen Transition Diagram
 [Screean Transition link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/C4F5D)
-   ![Screenshot from 2021-10-15 05-25-58](https://user-images.githubusercontent.com/72025145/137432173-cf3d26d4-e475-4fd4-a76d-e6e1b70eb83a.png)
-
+![Screenshot from 2021-10-15 13-04-49](https://user-images.githubusercontent.com/72025145/137483966-c54e92a4-35de-4b61-a8db-8325f9970eae.png)
 
 ## Wireframes
    [Wireframes link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/1640D)
-<!-- ![wireframe](https://user-images.githubusercontent.com/72025145/136905059-ffe2f3b6-f84b-422e-8904-a0d9d1ccae21.png) -->
