@@ -10,9 +10,7 @@ Things you may want to cover:
    * Comment function using Ajax
 ## Technologies outside the curriculum
    * Front-end: [Bulma](https://bulma.io/)
-   * Position: 
-      - Google maps Places API
-      [Utiliser google maps places api afin de recupérer toutes les structures de santé hôpitaux où pharmacies pour les afficher sur l'application web.](https://developers.google.com/maps)
+   * Stocker les images en ligne: [Cloudinary](https://cloudinay.com)
 ## Execution Procedure
    ```bash
    $ git clone git@github.com:Pikatchu99/dive-original-app.git
