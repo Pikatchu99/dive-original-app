@@ -28,7 +28,7 @@ Things you may want to cover:
    [Table definition](https://docs.google.com/spreadsheets/d/1C-l-oNJtN5sR_UJ8HKg4VeV2jh541hJHY7SrH45covs/edit?usp=sharing)
 ## ER Diagram
    [ER Diagram](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/7E206)
-![Screenshot from 2021-10-16 15-05-16](https://user-images.githubusercontent.com/72025145/137590508-be2d4306-557e-4b42-9cb5-ef2e6a982d49.png)
+![Screenshot from 2021-10-18 12-06-45](https://user-images.githubusercontent.com/72025145/137719498-9732358d-7aec-4cb4-bf42-14fb087c375f.png)
 ## Screen Transition Diagram
 [Screean Transition link](https://cacoo.com/diagrams/ZtXaoVWx95sYMR6G/C4F5D)
 ![ZtXaoVWx95sYMR6G-C4F5D](https://user-images.githubusercontent.com/72025145/137640021-f8eb399b-61a0-4e3b-81dc-052100512678.png)
